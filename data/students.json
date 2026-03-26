@@ -1,0 +1,62 @@
+[
+  {
+    "id": 3,
+    "name": "Arjun Mehta",
+    "class": "10th",
+    "fees": "Paid"
+  },
+  {
+    "id": 4,
+    "name": "Priya Deshmukh",
+    "class": "8th",
+    "fees": "Unpaid"
+  },
+  {
+    "id": 5,
+    "name": "Aman Verma",
+    "class": "12th",
+    "fees": "Paid"
+  },
+  {
+    "id": 6,
+    "name": "Ananya Iyer",
+    "class": "11th",
+    "fees": "Paid"
+  },
+  {
+    "id": 7,
+    "name": "Rohan Joshi",
+    "class": "9th",
+    "fees": "Unpaid"
+  },
+  {
+    "id": 8,
+    "name": "Kavya Nair",
+    "class": "10th",
+    "fees": "Paid"
+  },
+  {
+    "id": 9,
+    "name": "Vikram Singh",
+    "class": "12th",
+    "fees": "Unpaid"
+  },
+  {
+    "id": 10,
+    "name": "Sanya Malhotra",
+    "class": "8th",
+    "fees": "Paid"
+  },
+  {
+    "id": 11,
+    "name": "Ishaan Gupta",
+    "class": "11th",
+    "fees": "Unpaid"
+  },
+  {
+    "id": 12,
+    "name": "Meera Reddy",
+    "class": "9th",
+    "fees": "Paid"
+  }
+]
